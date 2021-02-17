@@ -1,6 +1,6 @@
-# cookie
 
-  Cookie component.
+
+ This repository contains the required resources for the cookie component.
 
 ## Installation
 
@@ -25,7 +25,6 @@ var cookies = cookie()
 // clear
 cookie('name', null)
 ```
+## Contact Us
 
-## License
-
-  MIT
+If you come across any issues while using this repository, please feel free to start a conversation on our [Slack](https://resources.rudderstack.com/join-rudderstack-slack) channel. We will be happy to help you.
